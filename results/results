@@ -1,0 +1,1824 @@
+#
+# Results on Tuesday September 22 2020 16:02:23 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,ef
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,1944
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,2339
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,148,False,因为 小张 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小张,123,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,142,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,137,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,110,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,131,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,129,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,133,False,因为 小张 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1057
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,1851
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,491,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,207,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,215,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,500,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,251,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,232,False,他 买了 三瓶 的 水 给 妈妈。
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,496,False,他 买了 三瓶 的 水 给 妈妈。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1692
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,4,0,q2,NULL,1790
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Question,5,0,q1,NULL,Did you see a bunny?,No,0,1619
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,6,0,q2,NULL,1135
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,7,0,q2,NULL,2002
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Question,8,0,q1,NULL,Did you see anything?,Yes,1,2102
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Message,9,0,q2,NULL,2139
+1600790543,2a4d4fef854d2b9e010c33473cc203bd,Question,10,0,q1,NULL,Did you see anything?,No,0,1253
+#
+# Results on Tuesday September 22 2020 16:07:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,sdf
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,2594
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,889
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,261,False,因为 小张 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小张,143,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,144,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,127,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,119,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,116,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,120,False,因为 小张 没有 问 他 就 用了 电脑。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,139,False,因为 小张 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1255
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,263
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,535,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,126,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,125,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,133,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,133,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,138,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,190,False,他 买了 三瓶 的 水 给 妈妈。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1309
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Message,4,0,story,NULL,293
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,1,他,429,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,2,买了,132,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,3,三瓶,137,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,4,的,131,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,5,水,136,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,6,给,138,False,他 买了 三瓶 的 水 给 妈妈。
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,4,1,story,NULL,7,妈妈。,207,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Question,4,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1210
+1600790868,2a4d4fef854d2b9e010c33473cc203bd,Question,5,0,q1,NULL,Did you see anything?,Yes,1,1438
+#
+# Results on Tuesday September 22 2020 16:11:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,sdf
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,1891
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,1483
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,193,False,因为 小张 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小张,143,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,138,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,139,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,132,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,135,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,122,False,因为 小张 没有 问 他 就 用了 电脑。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,147,False,因为 小张 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1376
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,1707
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,183,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,149,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,149,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,149,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,143,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,173,False,他 买了 三瓶 的 水 给 妈妈。
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,374,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1708
+1600791094,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2995
+#
+# Results on Tuesday September 22 2020 16:24:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,史蒂芬
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,16442
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,2018
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,250,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小明,165,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,169,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,170,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,210,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,219,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,337,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,554,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,7433
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,770
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,198,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,167,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,175,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,159,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,162,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,191,False,他 买了 三瓶 的 水 给 妈妈。
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,235,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,2859
+1600791895,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,5611
+#
+# Results on Tuesday September 22 2020 16:25:09 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600791909,39e26988b29209efffc1b850b89b209d,Form,1,0,intro,NULL,name,Luolan Zhang
+1600791909,39e26988b29209efffc1b850b89b209d,Form,1,0,intro,NULL,_REACTION_TIME_,49307
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600791909,39e26988b29209efffc1b850b89b209d,Message,2,0,story,NULL,7713
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,1,因为,594,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,2,小明,742,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,3,没有,511,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,4,问,463,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,5,他,427,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,6,就,407,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,7,用了,495,False,因为 小明 没有 问 他 就 用了 电脑。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,2,1,story,NULL,8,电脑。,669,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600791909,39e26988b29209efffc1b850b89b209d,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,4291
+1600791909,39e26988b29209efffc1b850b89b209d,Message,3,0,story,NULL,2251
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,1,他,607,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,2,买了,671,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,3,三瓶,739,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,4,的,449,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,5,水,577,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,6,给,570,False,他 买了 三瓶 的 水 给 妈妈。
+1600791909,39e26988b29209efffc1b850b89b209d,DashedSentence,3,1,story,NULL,7,妈妈。,569,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600791909,39e26988b29209efffc1b850b89b209d,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1498
+1600791909,39e26988b29209efffc1b850b89b209d,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,3301
+#
+# Results on Tuesday September 22 2020 16:28:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,sdf
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,1961
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,11679
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,165,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小明,168,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,180,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,167,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,176,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,187,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,162,False,因为 小明 没有 问 他 就 用了 电脑。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,169,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1766
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,602
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,172,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,180,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,156,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,175,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,161,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,164,False,他 买了 三瓶 的 水 给 妈妈。
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,183,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1964
+1600792100,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2858
+#
+# Results on Tuesday September 22 2020 17:08:43 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Form,1,0,intro,NULL,name,w
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Form,1,0,intro,NULL,_REACTION_TIME_,7306
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Message,2,0,story,NULL,3795
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,1,因为,376,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,2,小明,192,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,3,没有,224,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,4,问,272,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,5,他,336,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,6,就,256,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,7,用了,256,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,8,电脑。,272,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,2799
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Message,3,0,story,NULL,222
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,1,他,351,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,2,买了,240,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,3,三瓶,209,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,4,的,224,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,5,水,240,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,6,给,296,False,他 买了 三瓶 的 水 给 妈妈。
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,7,妈妈。,312,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1667
+1600794523,b05b2b539f0d523061b96fd5efd61ebe,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2677
+#
+# Results on Tuesday September 22 2020 17:15:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,mn
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,3156
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,3294
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,211,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小明,148,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,133,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,140,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,129,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,141,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,238,False,因为 小明 没有 问 他 就 用了 电脑。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,428,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1871
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,470
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,342,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,214,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,172,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,201,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,231,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,190,False,他 买了 三瓶 的 水 给 妈妈。
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,225,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,3355
+1600794929,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2917
+#
+# Results on Tuesday September 22 2020 17:17:23 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,sdf
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,1850
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,1007
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,233,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小明,165,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,132,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,146,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,123,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,120,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,124,False,因为 小明 没有 问 他 就 用了 电脑。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,163,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1452
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,274
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,190,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,170,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,144,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,148,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,134,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,121,False,他 买了 三瓶 的 水 给 妈妈。
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,188,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1216
+1600795044,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,1647
+#
+# Results on Tuesday September 22 2020 21:00:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,wef
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,_REACTION_TIME_,2513
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Message,2,0,story,NULL,2527
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,1,因为,276,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,2,小明,274,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,3,没有,318,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,4,问,317,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,5,他,345,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,6,就,309,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,7,用了,277,False,因为 小明 没有 问 他 就 用了 电脑。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,2,1,story,NULL,8,电脑。,362,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1760
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Message,3,0,story,NULL,714
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,1,他,278,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,2,买了,208,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,3,三瓶,436,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,4,的,399,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,5,水,340,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,6,给,446,False,他 买了 三瓶 的 水 给 妈妈。
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,DashedSentence,3,1,story,NULL,7,妈妈。,1206,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1644
+1600808405,2a4d4fef854d2b9e010c33473cc203bd,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,不,0,2329
+#
+# Results on Tuesday September 22 2020 23:12:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Form,1,0,intro,NULL,name,w
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Form,1,0,intro,NULL,_REACTION_TIME_,6122
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Message,2,0,story,NULL,2310
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,1,因为,224,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,2,小明,192,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,3,没有,216,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,4,问,232,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,5,他,216,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,6,就,247,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,7,用了,248,False,因为 小明 没有 问 他 就 用了 电脑。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,2,1,story,NULL,8,电脑。,345,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,3808
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Message,3,0,story,NULL,3249
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,1,他,255,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,2,买了,192,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,3,三瓶,184,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,4,的,216,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,5,水,264,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,6,给,296,False,他 买了 三瓶 的 水 给 妈妈。
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,DashedSentence,3,1,story,NULL,7,妈妈。,336,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1500
+1600816326,b05b2b539f0d523061b96fd5efd61ebe,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2503
+#
+# Results on Wednesday September 23 2020 07:14:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845287,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,可能
+1600845287,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,5450
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600845287,572bb06a0517907c8cdea66c95735679,Message,2,0,story,NULL,1870
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,1,因为,801,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,2,小明,234,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,3,没有,217,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,4,问,192,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,5,他,194,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,6,就,215,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,7,用了,209,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,8,电脑。,341,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600845287,572bb06a0517907c8cdea66c95735679,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1499
+1600845287,572bb06a0517907c8cdea66c95735679,Message,3,0,story,NULL,3839
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,1,他,245,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,2,买了,201,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,3,三瓶,145,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,4,的,161,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,5,水,186,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,6,给,201,False,他 买了 三瓶 的 水 给 妈妈。
+1600845287,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,7,妈妈。,239,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845287,572bb06a0517907c8cdea66c95735679,Question,3,2,story,NULL,小王买了几瓶水?,四瓶,NULL,1861
+1600845287,572bb06a0517907c8cdea66c95735679,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,2091
+#
+# Results on Wednesday September 23 2020 07:18:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845522,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,dsf
+1600845522,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,1995
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600845522,572bb06a0517907c8cdea66c95735679,Message,2,0,story,NULL,5122
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,1,因为,269,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,2,小明,146,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,3,没有,155,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,4,问,136,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,5,他,144,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,6,就,142,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,7,用了,153,False,因为 小明 没有 问 他 就 用了 电脑。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,8,电脑。,528,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600845522,572bb06a0517907c8cdea66c95735679,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,2137
+1600845522,572bb06a0517907c8cdea66c95735679,Message,3,0,story,NULL,7402
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,1,他,309,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,2,买了,321,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,3,三瓶,255,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,4,的,249,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,5,水,365,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,6,给,580,False,他 买了 三瓶 的 水 给 妈妈。
+1600845522,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,7,妈妈。,4055,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845522,572bb06a0517907c8cdea66c95735679,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,4388
+1600845522,572bb06a0517907c8cdea66c95735679,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,3431
+#
+# Results on Wednesday September 23 2020 07:26:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600846004,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,jk
+1600846004,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,3581
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1600846004,572bb06a0517907c8cdea66c95735679,Message,2,0,story,NULL,1694
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,1,因为,887,False,因为 小明 没有 问 他 就 用了 电脑。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,2,小明,696,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,3,没有,589,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,4,问,562,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,5,他,513,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,6,就,457,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,7,用了,2379,False,因为 小明 没有 问 他 就 用了 电脑。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,2,1,story,NULL,8,电脑。,741,False,因为 小明 没有 问 他 就 用了 电脑。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Apprehension time.
+1600846004,572bb06a0517907c8cdea66c95735679,Question,2,2,story,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1988
+1600846004,572bb06a0517907c8cdea66c95735679,Message,3,0,story,NULL,5061
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,1,他,339,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,2,买了,283,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,3,三瓶,359,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,4,的,345,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,5,水,363,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,6,给,377,False,他 买了 三瓶 的 水 给 妈妈。
+1600846004,572bb06a0517907c8cdea66c95735679,DashedSentence,3,1,story,NULL,7,妈妈。,768,False,他 买了 三瓶 的 水 给 妈妈。
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846004,572bb06a0517907c8cdea66c95735679,Question,3,2,story,NULL,小王买了几瓶水?,三瓶,NULL,1798
+1600846004,572bb06a0517907c8cdea66c95735679,Question,4,0,q1,NULL,你已读完所有的句子，确认提交吗？,是的,1,1688
